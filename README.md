@@ -1,12 +1,3 @@
-=============================================================
-Uplink and downlink simulators for the paper 
-"Decentralized Baseband Processing for Massive MU-MIMO Systems" 
--------------------------------------------------------------
-(c) 2017 Christoph Studer; e-mail: studer@cornell.edu 
-=============================================================
-
-
-
 # Simulator for Decentralized Baseband Processing (DBP)
 (c) 2017 Christoph Studer 
 e-mail: studer@cornell.edu 
